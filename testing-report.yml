@@ -1,0 +1,107 @@
+- summary: |
+    Регистрация нового пользователя 
+status: pass
+  
+- summary: |
+    Проверка входа пользователя при помощи данных введенных при регистрации
+status: pass
+
+- summary: |
+    Проверка входа пользователя при помощи аккаунта Github
+status: pass
+
+- summary: |
+    Проверка входа пользователя при помощи аккаунта Discord
+status: pass
+
+- summary: |
+    Получение ошибки при вводе несуществующего логина
+status: pass
+
+- summary: |
+    Получение ошибки при вводе несуществующего пароля
+status: pass
+
+- summary: |
+    Создание игры
+status: pass
+  
+- summary: |
+    Выбор уровня сложности при создании игры
+status: pass  
+
+- summary: |
+    Проверка работы чата во время игры
+status: pass 
+
+- summary: |
+    Проверка работы кнопки "сдаться" 
+status: pass  
+
+- summary: |
+    Смена "темы" игры 
+status: pass  
+
+- summary: |
+    Отправка отзыва в игре
+status: pass 
+
+- summary: |
+    Отмена игры пользователем
+status: pass 
+
+- summary: |
+   Просмотр профиля пользователя
+status: pass 
+
+- summary: |
+   Просмотр статистики в профиле
+status: pass 
+
+- summary: |
+   Просмотр "настроек" профиля 
+status: pass 
+
+- summary: |
+    Смена "оружия" (языка программирования)
+status: pass 
+
+- summary: |
+   Выбор типа звука 
+status: fail
+
+- summary: |
+    Создание игры без регистрации
+status: pass
+
+- summary: |
+    Создание игры с другом
+status: pass
+
+- summary: |
+    Мобильная версия
+status: pass
+
+- summary: |
+    Проверка кроссбраузерности
+status: pass
+
+- summary: |
+    Невозможность создания двух игр одновременно 
+status: pass
+
+- summary: |
+    Создание новой задачи
+status: fail
+
+- summary: |
+    Отправка личного сообщения пользователю находящемуся онлайн 
+status: pass
+
+- summary: |
+    Перевод главной страницы на русский язык  
+status: pass
+
+- summary: |
+    Создание турнира 
+status: pass
