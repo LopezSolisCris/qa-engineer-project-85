@@ -1,42 +1,42 @@
 - summary: |
     Регистрация нового пользователя 
-status: pass
+  status: pass
   
-- summary: |
+  - summary: |
     Проверка авторизации 
-status: pass
+  status: pass
 
 - summary: |
     Проверка входа пользователя при помощи аккаунта Github
-status: pass
+  status: pass
 
 - summary: |
     Проверка входа пользователя при помощи аккаунта Discord
-status: pass
+  status: pass
 
 - summary: |
     Получение ошибки при вводе несуществующего логина
-status: pass
+  status: pass
 
 - summary: |
     Получение ошибки при вводе несуществующего пароля
-status: pass
+  status: pass
 
 - summary: |
     Создание игры с ботом
-status: pass
+  status: pass
   
 - summary: |
     Выбор уровня сложности при создании игры
-status: pass  
+  status: pass  
 
 - summary: |
     Отправка сообщения в чат в активной игре
-status: pass 
+  status: pass 
 
 - summary: |
     Проверка работы кнопки "сдаться" 
-status: pass  
+  status: pass  
 
 - summary: |
     Смена "темы" игры 
@@ -44,52 +44,52 @@ status: pass
 
 - summary: |
     Отправка отзыва в игре
-status: pass 
+  status: pass 
 
 - summary: |
     Отмена игры пользователем
-status: pass 
+  status: pass 
 
 - summary: |
    Просмотр профиля пользователя
-status: pass 
+  status: pass 
 
 - summary: |
    Просмотр статистики в профиле
-status: pass 
+  status: pass 
 
 - summary: |
     Смена "оружия" (языка программирования)
-status: pass 
+  status: pass 
 
 - summary: |
    Выбор типа звука 
-status: fail
+  status: fail
 
 - summary: |
     Создание игры без регистрации
-status: pass
+  status: pass
 
 - summary: |
     Проверка создания игры в мобильной версии
-status: pass
+  status: pass
 
 - summary: |
     Проверка кроссбраузерности
-status: pass
+  status: pass
 
 - summary: |
     Невозможность создания двух игр одновременно 
-status: pass
+  status: pass
 
 - summary: |
     Создание новой задачи
-status: fail
+  status: fail
 
 - summary: |
     Проверка отправки сообщения пользователю с главной страницы
-status: pass
+  status: pass
 
 - summary: |
     Создание турнира 
-status: pass
+  status: pass
