@@ -2,7 +2,7 @@
     Регистрация нового пользователя 
   status: pass
   
-  - summary: |
+- summary: |
     Проверка авторизации 
   status: pass
 
