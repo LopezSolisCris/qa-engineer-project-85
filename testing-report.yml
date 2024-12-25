@@ -3,7 +3,7 @@
 status: pass
   
 - summary: |
-    Проверка входа пользователя при помощи данных введенных при регистрации
+    Проверка авторизации 
 status: pass
 
 - summary: |
@@ -23,7 +23,7 @@ status: pass
 status: pass
 
 - summary: |
-    Создание игры
+    Создание игры с ботом
 status: pass
   
 - summary: |
@@ -31,7 +31,7 @@ status: pass
 status: pass  
 
 - summary: |
-    Проверка работы чата во время игры
+    Отправка сообщения в чат в активной игре
 status: pass 
 
 - summary: |
@@ -59,10 +59,6 @@ status: pass
 status: pass 
 
 - summary: |
-   Просмотр "настроек" профиля 
-status: pass 
-
-- summary: |
     Смена "оружия" (языка программирования)
 status: pass 
 
@@ -75,11 +71,7 @@ status: fail
 status: pass
 
 - summary: |
-    Создание игры с другом
-status: pass
-
-- summary: |
-    Мобильная версия
+    Проверка создания игры в мобильной версии
 status: pass
 
 - summary: |
@@ -95,11 +87,7 @@ status: pass
 status: fail
 
 - summary: |
-    Отправка личного сообщения пользователю находящемуся онлайн 
-status: pass
-
-- summary: |
-    Перевод главной страницы на русский язык  
+    Проверка отправки сообщения пользователю с главной страницы
 status: pass
 
 - summary: |
