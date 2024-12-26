@@ -40,7 +40,7 @@
 
 - summary: |
     Смена "темы" игры 
-    status: pass  
+  status: pass  
 
 - summary: |
     Отправка отзыва в игре
