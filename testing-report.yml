@@ -37,9 +37,9 @@
 - summary: |
     Проверка работы кнопки "сдаться" 
   status: pass  
-
+  
 - summary: |
-    Смена "темы" игры 
+    Смена "темы" игры
   status: pass  
 
 - summary: |
