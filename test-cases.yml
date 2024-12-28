@@ -36,7 +36,6 @@
     prerequisites: |
     Пользователь вошел в свой аккаунт github
   test-data: |
-    Тестовые данные
     No data
   steps:
     - Нажать на кнопку "Авторизоваться через Github"
@@ -51,7 +50,6 @@
   prerequisites: |
     Пользователь вошел в свой аккаунт Discord
   test-data: |
-    Тестовые данные
     No data
   steps:
     - Нажать на кнопку "Авторизоваться через Discord"
