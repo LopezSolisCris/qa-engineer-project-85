@@ -19,6 +19,8 @@
    Проверка авторизации 
   requirement: |
     Пользователь может войти на сайт при помощи своей УЗ
+  prerequisites: |
+    Пользователь находится на главной странице
   test-data: |
     Пароль = Prosto100/ Почта = soliscris@gmail.com
   steps:
@@ -32,7 +34,7 @@
    Проверка входа пользователя при помощи аккаунта Github
   requirement: |
     Пользователь может войти на сайт при помощи своей УЗ в Github
-    prerequisites: |
+  prerequisites: |
     Пользователь вошел в свой аккаунт github
   test-data: |
     No data
